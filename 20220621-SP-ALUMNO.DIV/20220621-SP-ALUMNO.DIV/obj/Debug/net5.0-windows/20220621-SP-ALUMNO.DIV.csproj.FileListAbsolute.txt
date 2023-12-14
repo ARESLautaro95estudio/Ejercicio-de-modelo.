@@ -1,0 +1,24 @@
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\SP\Entregar\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\20220621-SP-ALUMNO.DIV.csproj.AssemblyReference.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\SP\Entregar\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\_20220621_SP_ALUMNO.DIV.FrmView.resources
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\SP\Entregar\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\_20220621_SP_ALUMNO.DIV.Properties.Resources.resources
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\SP\Entregar\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\20220621-SP-ALUMNO.DIV.csproj.GenerateResource.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\SP\Entregar\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\20220621-SP-ALUMNO.DIV.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\SP\Entregar\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\20220621-SP-ALUMNO.DIV.AssemblyInfoInputs.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\SP\Entregar\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\20220621-SP-ALUMNO.DIV.AssemblyInfo.cs
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\SP\Entregar\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\20220621-SP-ALUMNO.DIV.csproj.CoreCompileInputs.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\SP\SP-ALUMNO\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\20220621-SP-ALUMNO.DIV.csproj.AssemblyReference.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\SP\SP-ALUMNO\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\_20220621_SP_ALUMNO.DIV.FrmView.resources
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\SP\SP-ALUMNO\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\_20220621_SP_ALUMNO.DIV.Properties.Resources.resources
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\SP\SP-ALUMNO\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\20220621-SP-ALUMNO.DIV.csproj.GenerateResource.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\SP\SP-ALUMNO\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\20220621-SP-ALUMNO.DIV.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\SP\SP-ALUMNO\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\20220621-SP-ALUMNO.DIV.AssemblyInfoInputs.cache
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\SP\SP-ALUMNO\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\20220621-SP-ALUMNO.DIV.AssemblyInfo.cs
+E:\Facultad\5-Ayudantia\2022 - DIV E\Proyectos C#\Parciales\Propios\SP\SP-ALUMNO\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\20220621-SP-ALUMNO.DIV.csproj.CoreCompileInputs.cache
+C:\Users\lemar\Desktop\Modelo de 2do parcial\20220621-SP\20220621-SP\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\20220621-SP-ALUMNO.DIV.csproj.AssemblyReference.cache
+C:\Users\lemar\Desktop\Modelo de 2do parcial\20220621-SP\20220621-SP\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\_20220621_SP_ALUMNO.DIV.FrmView.resources
+C:\Users\lemar\Desktop\Modelo de 2do parcial\20220621-SP\20220621-SP\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\_20220621_SP_ALUMNO.DIV.Properties.Resources.resources
+C:\Users\lemar\Desktop\Modelo de 2do parcial\20220621-SP\20220621-SP\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\20220621-SP-ALUMNO.DIV.csproj.GenerateResource.cache
+C:\Users\lemar\Desktop\Modelo de 2do parcial\20220621-SP\20220621-SP\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\20220621-SP-ALUMNO.DIV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lemar\Desktop\Modelo de 2do parcial\20220621-SP\20220621-SP\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\20220621-SP-ALUMNO.DIV.AssemblyInfoInputs.cache
+C:\Users\lemar\Desktop\Modelo de 2do parcial\20220621-SP\20220621-SP\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\20220621-SP-ALUMNO.DIV.AssemblyInfo.cs
+C:\Users\lemar\Desktop\Modelo de 2do parcial\20220621-SP\20220621-SP\20220621-SP-ALUMNO.DIV\20220621-SP-ALUMNO.DIV\obj\Debug\net5.0-windows\20220621-SP-ALUMNO.DIV.csproj.CoreCompileInputs.cache
